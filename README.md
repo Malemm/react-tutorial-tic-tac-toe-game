@@ -5,9 +5,10 @@ Developed while following the official React tutorial - https://reactjs.org/tuto
 Not using create-react-app. React build with manual configuration of webpack, transpiler, and loader.
 
 ## Steps to run
-`npm start run`
+Execute
+`npm run start`
 or 
-`npm start build`
+`npm run build` in the main project directory.
 Then directly open the public/index.html in browser.
 
 ## Improvements suggested by official React tutorial are also implemented.
