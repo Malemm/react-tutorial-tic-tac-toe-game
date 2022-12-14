@@ -6,6 +6,8 @@ Not using create-react-app. React build with manual configuration of webpack, tr
 Uses Express server.
 
 ## Steps to run
+Run `npm install` to install dependencies.
+
 Execute `npm run build`. Then directly open the public/index.html in browser.
 
 Or to access via Express server execute `npm run build` `npm run start` and access localhost/3000 in browser.
