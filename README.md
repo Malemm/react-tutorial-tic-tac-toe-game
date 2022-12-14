@@ -3,13 +3,12 @@
 Developed while following the official React tutorial - https://reactjs.org/tutorial/tutorial.html
 
 Not using create-react-app. React build with manual configuration of webpack, transpiler, and loader.
+Uses Express server.
 
 ## Steps to run
-Execute
-`npm run start`
-or 
-`npm run build` in the main project directory.
-Then directly open the public/index.html in browser.
+Execute `npm run build`. Then directly open the public/index.html in browser.
+
+Or to access via Express server execute `npm run build` `npm run start` and access localhost/3000 in browser.
 
 ## Improvements suggested by official React tutorial are also implemented.
 1. Display the location for each move in the format (col, row) in the move history list.
